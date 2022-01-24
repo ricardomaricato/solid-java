@@ -1,4 +1,4 @@
-package br.com.maricato.rh.service;
+package br.com.maricato.rh.service.reajuste;
 
 import br.com.maricato.rh.ValidacaoException;
 import br.com.maricato.rh.model.Funcionario;
